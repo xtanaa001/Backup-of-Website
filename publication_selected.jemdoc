@@ -1,0 +1,14 @@
+# jemdoc: menu{MENU}{publication_selected.html}, nofooter  
+== Selected Publications
+
+~~~
+. *X. Tan*, B. Sun, Y. Wu and D.H.K. Tsang, "Asymptotic Performance Evaluation of a Battery Swapping and Charging Station for Electric Vehicles", under second-round review by *Performance Evaluation*, 2017.
+. *X. Tan*, G. Qu, B. Sun, N. Li, and D.H.K. Tsang, "Optimal Scheduling of Battery Charging Stations Serving Electric Vehicles Based on Battery Swapping", under review, 2017.
+. *X. Tan*, Y. Wu and D.H.K. Tsang, "[documents/ssp_bess_tsg.pdf A Stochastic Shortest Path Framework for Quantifying the Value and Lifetime of Battery Energy Storage under Dynamic Pricing]", *IEEE Transactions on Smart Grid*,  vol. 8, no. 2, pp. 769-778, March 2017.
+. B. Sun, *X. Tan*, and D.H.K. Tsang, “[documents/operation_BSCS_QoS.pdf Optimal Charging Operation of Battery Swapping and Charging Stations with QoS Guarantee]", accepted by *IEEE Transactions on Smart Grid*, Feb. 2017.
+. B. Sun, Zhe Huang, *X. Tan*, and D.H.K. Tsang, "[documents/ev_discrete_charging_sgc.pdf Optimal Scheduling for Electric Vehicle Charging with Discrete Charging Levels in Distribution Grid]", accepted by *IEEE Transactions on Smart Grid*, 2016.
+. *X. Tan*, Y. Wu and D.H.K. Tsang, "[documents/pareto_bess_tpds.pdf Pareto Optimal Operation of Distributed Battery Energy Storage Systems for Energy Arbitrage under Dynamic Pricing]", *IEEE Transactions on Parallel and Distributed Systems*, Vol. 27, No. 7, 2103-2115, July 2016.
+. Y. Wu, *X. Tan*, L. Qian, D.H.K. Tsang, W. Song, and L. Yu, "[documents/pricing_hybrid_market_tii.pdf Optimal Pricing and Energy Scheduling for Hybrid Energy Trading Market in Future Smart Grid]", *IEEE Transactions on Industrial Informatics*, vol. 11, no. 6, pp. 1585-1596, Dec. 2015.
+. *X. Tan*, B. Sun and D.H.K. Tsang, "[documents/queueing_bscs_sgc.pdf Queueing Network Models for Electric Vehicle Charging Station with Battery Swapping]", /in Proceedings of  IEEE 5th International Conference on Smart Grid Communications (IEEE SmartGridComm 2014)/, Nov. 2014.
+. *X. Tan*, Y. Wu and D.H.K. Tsang, "[documents/trading_bess_sgc.pdf Optimal Energy Trading with Battery Energy Storage under Dynamic Pricing]", /in Proceedings of  IEEE 5th International Conference on Smart Grid Communications (IEEE SmartGridComm 2014)/, Nov. 2014.
+~~~

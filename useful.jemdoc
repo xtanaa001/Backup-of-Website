@@ -1,0 +1,29 @@
+# jemdoc: menu{MENU}{other.html}, nofooter  
+== Some Useful Information
+
+== Journals
+~~~
+- *Power and Energy Area*
+-- IEEE Transactions on Power System
+-- IEEE Transactions on Smart Grid
+
+- *Communication and Networking Area*
+-- IEEE/ACM Transactions on Networking
+-- IEEE Journal of Selected Areas in Communication
+-- IEEE Transactions on Communications
+-- IEEE Transactions on Wireless Communications
+
+- *Computing and System Area*
+-- IEEE Transactions on Parallel and Distributed Systems
+-- IEEE Transactions on Mobile Computing
+~~~
+
+== Conferences
+~~~
+- ACM SIGMETRICS
+- ACM e-Energy
+- IEEE INFOCOM
+- IEEE SmartGridComm
+~~~
+
+

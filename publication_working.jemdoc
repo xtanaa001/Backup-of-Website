@@ -1,0 +1,21 @@
+# jemdoc: menu{MENU}{publication_working.html}, nofooter  
+== Current Focus
+
+== 1. Battery Charging and Swapping Station Network: Models and Algorithms.
+
+In this topic, we will investigate the models and scheduling algorithms for battery charging and swapping station (BSCS) network. The target is to propose realistic models and efficient algorithms to schedule the charging and swapping processes of a BSCS network with multiple battery charging stations and battery swapping stations. The ongoing work is mainly based on our following previous work:
+~~~
+. *X. Tan*, G. Qu, B. Sun, N. Li, and D.H.K. Tsang, "Optimal Scheduling of Battery Charging Stations Serving Electric Vehicles Based on Battery Swapping", under review, 2017.
+. B. Sun, *X. Tan*, and D.H.K. Tsang, “Optimal Charging Operation of Battery Swapping and Charging Stations with QoS Guarantee", accepted by /IEEE Transactions on Smart Grid/, Feb. 2017.
+. *X. Tan*, B. Sun, Y. Wu and D.H.K. Tsang, "Asymptotic Performance Evaluation of a Battery Swapping and Charging Station for Electric Vehicles", under second-round review by /Performance Evaluation/, 2017.
+. B. Sun, Zhe Huang, *X. Tan*, and D.H.K. Tsang, "[documents/ev_discrete_charging_sgc.pdf Optimal Scheduling for Electric Vehicle Charging with Discrete Charging Levels in Distribution Grid]", accepted by /IEEE Transactions on Smart Grid/, 2016.
+~~~
+
+== 2. Electric Vechile Charging with Flexibilities and Uncertainties: Optimality and Robustness.
+
+In this topic, we will propose novel models and algorithms to analyze the value of flexibilities associated with the charging processes of electric vehicles. We will also investigate the impact of uncertainties on the charging processes of electric vehicles. Some of the ongoing papers are based on our following previous papers:
+~~~
+. *X. Tan*, Y. Wu and D.H.K. Tsang, "[documents/ssp_bess_tsg.pdf A Stochastic Shortest Path Framework for Quantifying the Value and Lifetime of Battery Energy Storage under Dynamic Pricing]", accepted by /IEEE Transactions on Smart Grid/, 2015.
+. *X. Tan*, Y. Wu and D.H.K. Tsang, "[documents/pareto_bess_tpds.pdf Pareto Optimal Operation of Distributed Battery Energy Storage Systems for Energy Arbitrage under Dynamic Pricing]", /IEEE Transactions on Parallel and Distributed Systems/, Vol. 27, No. 7, 2103-2115, July 2016.
+~~~
+

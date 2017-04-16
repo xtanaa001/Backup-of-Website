@@ -1,0 +1,46 @@
+# jemdoc: menu{MENU}{index.html}  
+==Xiaoqi Tan (谭小琦)
+
+~~~
+{}{img_left}{photos/bio_new.jpg}{alt text}{152}{220}{http://c2e.ece.ust.hk/xiaoqitan}
+
+Ph.D. Candidate,\n
+[http://www.ece.ust.hk Department of Electronic and Computer Engineering] (ECE),\n 
+[http://www.ust.hk Hong Kong University of Science and Technology] (HKUST)\n
+\n
+Office: R3117, Academic Building, HKUST, Clear Water Bay, Kowloon, Hong Kong.\n 
+Email: $ \mathrm{ecexiaoqi.tan@connect.ust.hk}$\n
+~~~
+
+== Biography
+I am currently a Ph.D. student in the ECE Department at HKUST. Before joining HKUST, I received my B.E. degree from the Department of Information and Communication Engineering (first class honor), [http://www.xjtu.edu.cn Xi’an Jiaotong University], Xi’an (the home of [https://en.wikipedia.org/wiki/Terracotta_Army Terracotta Warriors and Horses]), China, 2012. I am now with the research group of [http://c2e.ece.ust.hk/main/ Computing, Communications and Energy System Optimization] (C2E) in ECE department at HKUST leading by Prof. [http://www.ece.ust.hk/~eetsang/ Danny H.K. Tsang]. From Oct. 2015 to April 2016, I was a visiting research fellow in [http://seas.harvard.edu School of Engineering and Applied Science] (SEAS), [http://www.harvard.edu Harvard University].
+
+
+== Research Interests
+I am generally interested in energy and system theory, including:
+~~~
+- *Energy Storage* and *Renewable Energy Integration* (economic and market aspects). 
+- *Coupled Transportation and Energy Systems* (e.g., infrastructure planning and service scheduling of electric vehicle network, etc.).
+- *Optimization and Computation*. 
+- *Stochastic Modeling and Performance Evaluation*.
+~~~
+
+== Research Updates
+~~~
+- *X. Tan*, and D.H.K. Tsang et al., “Hybrid Service Scheduling for Electric Vehicle Network”, working paper, 2017.
+- *X. Tan*, B. Zhang, and D.H.K. Tsang, “Quantifying and Pricing the Value of Multidimensional Flexibility of EV Charging”, working paper, 2017.
+- *X. Tan*, G. Qu, B. Sun, N. Li, and D.H.K. Tsang, “Optimal Scheduling of Battery Charging Stations Serving Electric Vehicles Based on Battery Swapping”, under review by /IEEE Transactions on Smart Grid/, 2017.
+- *X. Tan*, B. Sun, Y. Wu and D.H.K. Tsang, “Asymptotic Performance Evaluation of a Battery Swapping and Charging Station for Electric Vehicles”, under second-round review by /Performance Evaluation (Elsevier)/, 2017.
+~~~
+
+== Selected Publications ([http://c2e.ece.ust.hk/xiaoqitan/publication_type.html Full List]) 
+~~~
+. *X. Tan*, Y. Wu and D.H.K. Tsang, "[documents/ssp_bess_tsg.pdf A Stochastic Shortest Path Framework for Quantifying the Value and Lifetime of Battery Energy Storage under Dynamic Pricing]", /IEEE Transactions on Smart Grid/,  vol. 8, no. 2, pp. 769-778, March 2017.
+. B. Sun, *X. Tan*, and D.H.K. Tsang, “[documents/operation_BSCS_QoS.pdf Optimal Charging Operation of Battery Swapping and Charging Stations with QoS Guarantee]", accepted by /IEEE Transactions on Smart Grid/, Feb. 2017.
+. B. Sun, Zhe Huang, *X. Tan*, and D.H.K. Tsang, "[documents/ev_discrete_charging_sgc.pdf Optimal Scheduling for Electric Vehicle Charging with Discrete Charging Levels in Distribution Grid]", accepted by /IEEE Transactions on Smart Grid/, 2016.
+. *X. Tan*, Y. Wu and D.H.K. Tsang, "[documents/pareto_bess_tpds.pdf Pareto Optimal Operation of Distributed Battery Energy Storage Systems for Energy Arbitrage under Dynamic Pricing]", /IEEE Transactions on Parallel and Distributed Systems/, Vol. 27, No. 7, 2103-2115, July 2016.
+. Y. Wu, *X. Tan*, L. Qian, D.H.K. Tsang, W. Song, and L. Yu, "[documents/pricing_hybrid_market_tii.pdf Optimal Pricing and Energy Scheduling for Hybrid Energy Trading Market in Future Smart Grid]", /IEEE Transactions on Industrial Informatics/, vol. 11, no. 6, pp. 1585-1596, Dec. 2015.
+. *X. Tan*, B. Sun, and D.H.K. Tsang, "[documents/queueing_bscs_sgc.pdf Queueing Network Models for Electric Vehicle Charging Station with Battery Swapping]", /IEEE SmartGridComm 2014/.
+. *X. Tan*, Y. Wu and D.H.K. Tsang, "[documents/trading_bess_sgc.pdf Optimal Energy Trading with Battery Energy Storage under Dynamic Pricing]", /IEEE SmartGridComm 2014/.
+~~~
+
